@@ -125,7 +125,18 @@ Use statistical techniques and storytelling methods to communicate meaningful bu
 
 # 📽️ Portfolio Walkthrough Video
 
-Portfolio video link will be added after recording the final walkthrough.
+Portfolio Walkthrough Video Link:
+
+https://drive.google.com/file/d/1lRrCpKMImdjC8r8CdZzWkII1CRi2wxvm/view?usp=drivesdk
+
+This video provides an overview of my Apex Planet Data Analyst Internship Portfolio, covering:
+
+* Task 1: Data Immersion & Data Wrangling
+* Task 2: Exploratory Data Analysis & Business Intelligence
+* Task 3: Deep Dive Analysis & Interactive Dashboarding
+* Task 4: Data Storytelling & Statistical Validation
+
+
 
 ---
 
